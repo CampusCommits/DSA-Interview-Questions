@@ -1,0 +1,13 @@
+{
+    "initial snippet": {
+		"prefix": ["java","boilarplate"],
+		"body": [
+			"public class Solution {",
+            "    public static void main(String[] args) {",
+            "        ${1}",
+            "    }",
+            "}"
+		],
+		"description": "Boilarplate code for cpp program"
+	},
+}
