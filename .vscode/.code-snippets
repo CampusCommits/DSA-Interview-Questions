@@ -1,0 +1,29 @@
+{
+    "DSA Interview Question Template": {
+        "prefix": ["ques","question"],
+        "body": [
+            "# ${1:Question Name}",
+            "",
+            "## Problem Statement",
+            "${2:Describe the problem clearly and concisely. Include input/output formats and constraints.}",
+            "",
+            "## Example",
+            "${3:Provide one or more examples to illustrate the problem.}",
+            "",
+            "**Input**: ${4:Example input}  ",
+            "**Output**: ${5:Example output}",
+            "",
+            "## Solution",
+            "```$7",
+            "[// Path: ${8:src/solutions/question-file.js}](./${8:src/solutions/question-file.cpp})",
+            "```",
+            "",
+            "## Explanation",
+            "${9:Explain the approach, time complexity, and space complexity of the solution.}",
+            "",
+            "## Tags",
+            "${10:List relevant topics, e.g., Array, Two-Pointers, Dynamic Programming}"
+        ],
+        "description": "Template for DSA interview question documentation"
+    }
+}
