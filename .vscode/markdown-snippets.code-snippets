@@ -1,0 +1,35 @@
+{
+    "DSA Interview Question Template": {
+        "prefix": ["ques","question"],
+        "body": [
+            "# 🧠 Question: ${1}",
+            "",
+            "## 📘 Problem Statement",
+            "${2:Clearly describe the problem.}",
+            "",
+            "- **Input**: ${3:Describe input format}  ",
+            "- **Output**: ${4:Describe output format}  ",
+            "- **Constraints**: ${5:List constraints here}",
+            "",
+            "## 🔍 Example",
+            "```plaintext",
+            "Input:  nums = [2, 7, 11, 15], target = 9  ",
+            "Output: [0, 1]",
+            "```",
+            "",
+            "## 💡 Solution",
+            "[➡️ View C++ Code](./Solution.cpp)",
+            "[➡️ View Java Code](./Solution.java)",
+            "",
+            "## 🧾 Explanation",
+            "",
+            "- **Approach**: Explain your logic in 1–2 concise paragraphs  ",
+            "- **Time Complexity**: `O(n)`  ",
+            "- **Space Complexity**: `O(n)`",
+            "",
+            "## 🏷️ Tags",
+            "`Array` `Two Pointers` `Hash Map` `Dynamic Programming`"
+        ],
+        "description": "Template for DSA interview question documentation"
+    }
+}
