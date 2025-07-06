@@ -1,0 +1,14 @@
+{
+    "initial snippet": {
+		"prefix": ["cpp","boilarplate"],
+		"body": [
+			"#include<bits/stdc++.h>",
+			"using namespace std;",
+			"int main(){",
+			"    ${1}",
+			"    return 0;",
+			"}"
+		],
+		"description": "Boilarplate code for cpp program"
+	},
+}
